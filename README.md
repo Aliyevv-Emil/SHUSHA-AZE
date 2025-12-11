@@ -1,3 +1,5 @@
+# This project was featured in the World Robot Olympiad 2024 (WRO), competing in the Future Engineers category at both the national and international levels.
+
 # SHUSHA-AZE 2024
  ## Topics
 
